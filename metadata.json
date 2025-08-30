@@ -1,0 +1,5 @@
+{
+  "name": "VEO-3 Video Generator",
+  "description": "A powerful web application that leverages the latest Google Gemini VEO-3 model to generate high-quality videos from text prompts and reference images. Users can customize options like aspect ratio, sound, and resolution for their creations.",
+  "requestFramePermissions": []
+}
